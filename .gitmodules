@@ -1,0 +1,84 @@
+[submodule "xblock-activetable"]
+	path = xblock-activetable
+	url = https://github.com/open-craft/xblock-activetable.git
+[submodule "xblock-adventure"]
+	path = xblock-adventure
+	url = https://github.com/edx-solutions/xblock-adventure.git
+[submodule "edx-xblock-bibblio"]
+	path = edx-xblock-bibblio
+	url = https://github.com/proversity-org/edx-xblock-bibblio.git
+[submodule "voicerecxblock"]
+	path = voicerecxblock
+	url = https://github.com/perpetualny/voicerecxblock.git
+[submodule "DoneXBlock"]
+	path = DoneXBlock
+	url = https://github.com/Stanford-Online/DoneXBlock.git
+[submodule "xblock-drag-and-drop-v2"]
+	path = xblock-drag-and-drop-v2
+	url = https://github.com/edx-solutions/xblock-drag-and-drop-v2.git
+[submodule "flow-control-xblock"]
+	path = flow-control-xblock
+	url = https://github.com/eduNEXT/flow-control-xblock.git
+[submodule "xblock-google-drive"]
+	path = xblock-google-drive
+	url = https://github.com/edx-solutions/xblock-google-drive.git
+[submodule "xblock-image-explorer"]
+	path = xblock-image-explorer
+	url = https://github.com/edx-solutions/xblock-image-explorer.git
+[submodule "xblock-image-modal"]
+	path = xblock-image-modal
+	url = https://github.com/Stanford-Online/xblock-image-modal.git
+[submodule "edx-jsme"]
+	path = edx-jsme
+	url = https://github.com/jazkarta/edx-jsme.git
+[submodule "xblock-mufi"]
+	path = xblock-mufi
+	url = https://github.com/Stanford-Online/xblock-mufi.git
+[submodule "xblock-officemix"]
+	path = xblock-officemix
+	url = https://github.com/OfficeDev/xblock-officemix.git
+[submodule "xblock-ooyala"]
+	path = xblock-ooyala
+	url = https://github.com/edx-solutions/xblock-ooyala.git
+[submodule "xblock"]
+	path = xblock
+	url = https://github.com/oppia/xblock.git
+[submodule "edx-ora2"]
+	path = edx-ora2
+	url = https://github.com/edx/edx-ora2.git
+[submodule "xblock-poll"]
+	path = xblock-poll
+	url = https://github.com/open-craft/xblock-poll.git
+[submodule "problem-builder"]
+	path = problem-builder
+	url = https://github.com/open-craft/problem-builder.git
+[submodule "proctoru-xblock"]
+	path = proctoru-xblock
+	url = https://github.com/perpetualny/proctoru-xblock.git
+[submodule "pumukit2-opencast-video-xblock"]
+	path = pumukit2-opencast-video-xblock
+	url = https://github.com/teltek/pumukit2-opencast-video-xblock.git
+[submodule "s3-uploader-downloader"]
+	path = s3-uploader-downloader
+	url = https://github.com/jswope00/s3-uploader-downloader.git
+[submodule "schoolyourself-xblock"]
+	path = schoolyourself-xblock
+	url = https://github.com/schoolyourself/schoolyourself-xblock.git
+[submodule "edx-sga"]
+	path = edx-sga
+	url = https://github.com/mitodl/edx-sga.git
+[submodule "ubcpi"]
+	path = ubcpi
+	url = https://github.com/ubc/ubcpi.git
+[submodule "uniplay"]
+	path = uniplay
+	url = https://github.com/longmen21/uniplay.git
+[submodule "xblock-vectordraw"]
+	path = xblock-vectordraw
+	url = https://github.com/open-craft/xblock-vectordraw.git
+[submodule "VideoJSXBlock-Pro"]
+	path = VideoJSXBlock-Pro
+	url = https://github.com/longmen21/VideoJSXBlock-Pro.git
+[submodule "zoom-cloud-recording-list-xblock"]
+	path = zoom-cloud-recording-list-xblock
+	url = https://github.com/jswope00/zoom-cloud-recording-list-xblock.git
